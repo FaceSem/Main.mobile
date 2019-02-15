@@ -2380,7 +2380,7 @@ body {
     }
 
     .spoiler-body {
-        padding: 40px 20px;
+        /* padding: 40px 20px; */
         font-size: 14px;
     }
 
@@ -2919,64 +2919,173 @@ body {
 
     .circle1 {
         top: -5vw;
-        left: 43vw;
+        left: 43.2vw;
 
     }
 
     .circle2 {
         top: -7vw;
-        left: 43vw;
+        left: 43.2vw;
 
     }
 
     .circle3 {
         top: -5vw;
-        left: 43vw;
+        left: 43.2vw;
 
     }
 
     .circle4 {
         top: -12vw;
-        left: 43vw;
+        left: 43.2vw;
 
     }
 
-    @keyframes pulse-1 {
-        0% {
-            transform: scale(0.5);
-            }
-            100% {
-                transform: scale(1);
-                opacity: 0;
-            }
-      }
-      @-webkit-keyframes pulse-1 {
-        0% {
-            transform: scale(0.5);
-            }
-            100% {
-                transform: scale(1);
-                opacity: 0;
-            }
-      }
+    /* Pulse button animation */
+@keyframes pulse-1 {
+    0% {
+        transform: scale(0.5);
+        }
+        100% {
+            transform: scale(1);
+            opacity: 0;
+        }
+  }
+  @-webkit-keyframes pulse-1 {
+    0% {
+        transform: scale(0.5);
+        }
+        100% {
+            transform: scale(1);
+            opacity: 0;
+        }
+  }
+  
+  @-o-keyframes pulse-1 {
+    0% {
+        transform: scale(0.5);
+        }
+        100% {
+            transform: scale(1);
+            opacity: 0;
+        }
+  }
+  
+  @-moz-keyframes pulse-1 {
+    0% {
+        transform: scale(0.5);
+        }
+        100% {
+            transform: scale(1);
+            opacity: 0;
+        }
+  }
+  
 
-      @-o-keyframes pulse-1 {
-        0% {
-            transform: scale(0.5);
-            }
-            100% {
-                transform: scale(1);
-                opacity: 0;
-            }
-      }
+    .spoiler-body {
+        background-color: white;
+    }
+   
+    .spoiler-bubbles {
+        width: 100vw;
+        height: 48vw;
+        margin-top: 4vw;
+        margin-right: 0vw;
+        margin-left: 0vw;
+    }
 
-      @-moz-keyframes pulse-1 {
-        0% {
-            transform: scale(0.5);
-            }
-            100% {
-                transform: scale(1);
-                opacity: 0;
-            }
-      }
+    .spoiler-underbubbles {
+        font-size: 4vw;
+        margin-top: 15vw;
+        margin-right: 4vw;
+        margin-bottom: 1vw;
+        margin-left: 14vw;
+        line-height: 5vw;
+    }
+
+    .spoiler-table {
+        width: 93vw;
+        height: auto;
+        margin-top: 12vw;
+        margin-right: 3vw;
+        margin-left: 4vw;
+    }
+
+    .spoiler-face-div {
+        margin-top: 13vw;
+    }
+
+    .spoiler-face-subdiv {
+        display: flex;
+        flex-direction: row;
+        margin-left: 10vw;
+        margin-right: 9vw;
+        margin-bottom: 7vw;
+    }
+
+    .point {
+        width: 9vw;
+        height: 9vw;
+        margin-right: 2vw;
+    }
+
+    .point-text {
+        font-size: 3.8vw;
+        line-height: 5vw;
+    }
+
+    .spoiler-subtext {
+        font-size: 3.8vw;
+        line-height: 5vw;
+        margin-top: 9vw;
+        margin-left: 14vw;
+        margin-right: 8vw;
+    }
+
+    .btn-3 {
+        margin-top: 14vw;
+        margin-left: 29vw;
+    }
+
+    .discover-btn3 {
+        font-size: 2.3vw;
+        margin: 4.5vw 1.72vw 1.72vw 8.6vw;
+        padding: 2.5vw 3vw;
+        text-transform: uppercase;
+        font-weight: 600;
+        color: #24b47e;
+        text-decoration: none;
+        background-color: #ffffff;
+        border-radius: 1vw;
+        -webkit-box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+        box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+        -moz-box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+        outline: none;
+    }
+
+    .menu-click-close {
+        margin-top: 15vw;
+        padding-left: 43vw;
+        padding-bottom: 11vw;
+        position: relative;
+    }
+
+    .know-more-minus {
+        width: 13vw;
+        height: 13vw;
+        position: relative;
+        z-index: 999;
+    }
+
+    .circle5 {
+        position: absolute;
+        top: -16vw;
+        left: 42.8vw;
+        z-index: 0;
+    }
+
+    .spoiler-button-text {
+        margin-left: -3vw;
+    }
+
 }
