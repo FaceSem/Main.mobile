@@ -3099,7 +3099,7 @@ body {
         font-weight: bolder;
         padding-top: 18vw;
         margin-left: 15vw;
-        letter-spacing: 1px;
+        letter-spacing: 0px;
     } 
 
     .h1-subtitle {
@@ -3125,8 +3125,8 @@ body {
     .anti-aging {
         font-size: 5.5vw;
         font-weight: bolder;
-        width: 41vw;
-        margin-left: 16vw;
+        width: 55vw;
+        margin-left: 15vw;
         margin-top: 14vw;
         letter-spacing: 1px;
     }
@@ -3136,7 +3136,7 @@ body {
         height: 0.7vw;
         background-color: #80dce9;
         margin-top: 4vw;
-        margin-left: 16vw;
+        margin-left: 15vw;
     }
 
     .anti-aging-text {
