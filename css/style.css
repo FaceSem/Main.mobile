@@ -2872,9 +2872,9 @@ body {
     }
 
     .logo-mask {
-        width: 27vw;
-        margin-top: 11vw;
-        margin-left: 37vw;
+        width: 90vw;
+        margin-top: 2vw;
+        margin-left: 2vw;
     }
 
     .spoiler-white-footer2 {
@@ -3088,4 +3088,73 @@ body {
         margin-left: -3vw;
     }
 
+    .spoiler-h1-head {
+        width: 100vw;
+        background-color: white;
+        margin-top: -5vw;
+    }
+
+    .header-h1 {
+        font-size: 5.5vw;
+        font-weight: bolder;
+        padding-top: 18vw;
+        margin-left: 15vw;
+        letter-spacing: 1px;
+    } 
+
+    .h1-subtitle {
+        margin-top: -4vw;
+        margin-left: 15vw;
+        font-size: 4.2vw;
+    }
+
+    .blue-line2 {
+        width: 21vw;
+        height: 0.7vw;
+        background-color: #80dce9;
+        margin-left: 15vw;
+        margin-top: -1vw;
+    }
+
+    .illustration {
+        width: 90vw;
+        margin-left: 5vw;
+        margin-top: 8vw;
+    }
+
+    .anti-aging {
+        font-size: 5.5vw;
+        font-weight: bolder;
+        width: 41vw;
+        margin-left: 16vw;
+        margin-top: 14vw;
+        letter-spacing: 1px;
+    }
+
+    .blue-line3 {
+        width: 21vw;
+        height: 0.7vw;
+        background-color: #80dce9;
+        margin-top: 4vw;
+        margin-left: 16vw;
+    }
+
+    .anti-aging-text {
+        font-size: 4vw;
+        margin-left: 15vw;
+        margin-top: 5vw;
+        width: 74vw;
+        line-height: 5vw;
+    }
+
+    .illustration2 {
+        width: 82vw;
+        height: 60vw;
+        margin-left: 9vw;
+        margin-top: 10vw;
+    }
+
+    .btn-4 {
+        margin-top: 23vw;
+    } 
 }
