@@ -2288,8 +2288,12 @@ body {
     }
 
     .spoiler {
-        background-color: rgb(219, 255, 224);
+        /* background-color: rgb(219, 255, 224); */
         margin-top: 4px;
+    }
+
+    .green {
+        background-color: rgb(219, 255, 224);
     }
 
     .spoiler-header {
@@ -2723,6 +2727,8 @@ body {
     .navigation_footer{
         font-size: 3vw;
     }
+
+/* Style for mobile version */
 
     .spoiler-header-head {
         color: black;
@@ -3158,4 +3164,235 @@ body {
     .btn-4 {
         margin-top: 23vw;
     } 
+
+    .circle6 {
+        top: -16vw;
+        left: 42.5vw;
+    }
+
+    .spoiler3-h1 {
+        font-size: 5.5vw;
+        margin-top: 17vw;
+        margin-left: 15vw;
+        font-weight: 800;
+    }
+
+    .spoiler3-subtitle {
+        font-size: 5vw;
+        margin-left: 15vw;
+        margin-top: -3vw;
+        width: 60vw;
+        line-height: 6vw;
+    }
+
+    .blue-line5 {
+        width: 21vw;
+        height: 0.7vw;
+        background-color: #80dce9;
+        margin-top: -2vw;
+        margin-left: 15vw;
+    }
+
+    .spoiler3-text {
+        font-size: 4vw;
+        margin-left: 15vw;
+        margin-top: 4vw;
+        margin-right: 10vw;
+        line-height: 5.3vw;
+    }
+
+    .big-circle-illustration {
+        width: 84vw;
+        height: 80vw;
+        margin-left: 10vw;
+        margin-top: 10vw;
+
+    }
+
+    .subimage1 {
+        font-size: 4vw;
+        margin-top: 15vw;
+        margin-left: 15vw;
+        margin-right: 10vw; 
+    }
+
+    .blue2 {
+        background-color: #f2feff;
+    }
+
+    .info-board {
+        width: 84vw;
+        height: 55vw;
+        margin-top: 12vw;
+        margin-left: 9vw;
+    }
+
+    .spoiler3-header2 {
+        font-size: 5.5vw;
+        margin-top: 20vw;
+        margin-left: 12vw;
+        margin-right: 15vw;
+        font-weight: 800;
+    }
+
+    .blue-line6 {
+        width: 21vw;
+        height: 0.7vw;
+        background-color: #80dce9;
+        margin-left: 12vw;
+        margin-top: 4vw;
+    }
+
+    .spoiler3-subheader2 {
+        font-size: 3.9vw;
+        margin-top: 4vw;
+        margin-left: 11vw;
+        margin-right: 13vw;
+        line-height: 4.5vw;    
+    }
+
+    .no {
+        width: 100vw;
+        height: 87vw;
+        margin-top: 15vw;
+    }
+
+    .spoiler3-header3 {
+        font-size: 5.5vw;
+        margin-top: 13vw;
+        margin-left: 12vw;
+        margin-right: 20vw;
+        font-weight: 800;
+        line-height: 6vw;
+    }
+
+    .blue-line7 {
+        width: 26vw;
+        height: 0.7vw;
+        margin-top: 5vw;
+        margin-left: 12vw;
+        background-color: #34affd;
+    }
+
+    .spoiler3-text2 {
+        font-size: 3.9vw;
+        margin-left: 12vw;
+        margin-right: 14vw;
+        margin-top: 4vw;
+        line-height: 5vw;
+    }
+
+    .small-circle {
+        width: 68vw;
+        height: 40vw;
+        margin-top: 11vw;
+        margin-left: 14vw;
+    }
+
+    .points {
+        width: 75vw;
+        height: 36vw;
+        margin-top: 9vw;
+        margin-left: 9vw;
+    }
+
+    .no2 {
+        width: 100vw;
+        height: 88vw;
+        margin-top: 14vw;
+    }
+
+    .spoiler3-header4 {
+        font-size: 5.1vw;
+        font-weight: 800;
+        margin-top: 13vw;
+        margin-left: 12vw;
+        margin-right: 35vw;
+    }
+
+    .blue-line8 {
+        width: 25vw;
+        height: 0.7vw;
+        background-color: #34affd;
+        margin-left: 13vw;
+        margin-top: 3vw;
+    }
+
+    .spoiler3-text3 {
+        font-size: 4vw;
+        margin-left: 12vw;
+        margin-top: 4vw;
+        margin-right: 12vw;
+        line-height: 5vw;
+    }
+
+    .small-circle2 {
+        width: 40vw;
+        height: 40vw;
+        margin-top: 10vw;
+        margin-left: 28vw;
+    }
+
+    .points-copy {
+        width: 64vw;
+        height: 34vw;
+        margin-left: 11vw;
+        margin-top: 4vw;
+    }
+
+    .no3 {
+        width: 100vw;
+        height: 90vw;
+        margin-top: 11vw;
+    }
+
+    .spoiler3-header5 {
+        font-size: 5.1vw;
+        font-weight: 800;
+        margin-top: 13vw;
+        margin-left: 13vw;
+        margin-right: 40vw;
+        line-height: 6vw;
+    }
+
+    .blue-line9 {
+        width: 25vw;
+        height: 0.7vw;
+        background-color: #34affd;
+        margin-top: 5vw;
+        margin-left: 14vw;
+    }
+
+    .spoiler3-text4 {
+        font-size: 4vw;
+        margin-left: 13vw;
+        margin-top: 3vw;
+        margin-right: 14vw;
+        line-height: 5vw;
+    }
+
+    .illustrration3 {
+        width: 40vw;
+        height: 40vw;
+        margin-top: 10vw;
+        margin-left: 28vw;
+    }
+
+    .points-copy2 {
+        width: 72vw;
+        height: 37vw;
+        margin-top: 10vw;
+        margin-left: 12vw;
+    }
+
+    .btn-5 {
+        margin-top: 21vw;
+    }
+
+    .circle7 {
+        top: -17vw;
+        left: 42.9vw;
+    }
 }
+
+
