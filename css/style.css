@@ -2732,11 +2732,11 @@ body {
 
     .spoiler-header-head {
         color: black;
-        margin-left: 15vw;
+        margin-left: 16vw;
         font-size: 8vw;
         font-weight: bold;
         margin-top: 11vw;
-        margin-bottom: 2vw;
+        margin-bottom: 4vw;
         line-height: 1.1;
     }
 
@@ -2745,7 +2745,7 @@ body {
         height: 0.7vw;
         margin-left: 16vw;
         background-color: #80dce9;
-        margin-bottom: 3vw;
+        margin-bottom: 4vw;
     }
 
     .spoiler-header-text {
@@ -2806,7 +2806,7 @@ body {
         margin-left: 16vw;
         margin-top: 4vw;
         background-color: #81a8fc;
-        margin-bottom: 3vw;
+        margin-bottom: 4vw;
     }
 
     .orange-span {
@@ -2844,11 +2844,11 @@ body {
     }
 
     .spoiler-blueLine {
-        margin-top: 2vw;
+        margin-top: 0vw;
     }
 
     .blue-text {
-        margin-top: -2vw;
+        margin-top: -4vw;
     }
 
     .blue-span {
@@ -3129,6 +3129,39 @@ body {
         margin-top: 8vw;
     }
 
+    .cytoprotective-header {
+        font-size: 5.5vw;
+        font-weight: 800;
+        margin-top: 11vw;
+        margin-left: 15vw;
+        width: 56vw;
+        line-height: 7vw;
+    }
+
+    .blue-line-cyto {
+        width: 18vw;
+        height: 0.7vw;
+        background-color: #80dce9;
+        margin-top: 4vw;
+        margin-bottom: 4vw;
+        margin-left: 15vw;
+    }
+
+    .cyto-text {
+        margin-left: 15vw;
+        font-size: 3.7vw;
+        width: 69vw;
+        line-height: 5vw;
+    }
+
+    .cyto-illustration {
+        width: 80vw;
+        height: 41vw;
+        margin-top: 10vw;
+        margin-left: 9vw;
+        margin-bottom: 5vw;
+    }
+
     .anti-aging {
         font-size: 5.5vw;
         font-weight: bolder;
@@ -3149,7 +3182,7 @@ body {
     .anti-aging-text {
         font-size: 4vw;
         margin-left: 15vw;
-        margin-top: 5vw;
+        margin-top: 4vw;
         width: 74vw;
         line-height: 5vw;
     }
@@ -3189,7 +3222,7 @@ body {
         width: 21vw;
         height: 0.7vw;
         background-color: #80dce9;
-        margin-top: -2vw;
+        margin-top: 0vw;
         margin-left: 15vw;
     }
 
@@ -3246,8 +3279,8 @@ body {
     .spoiler3-subheader2 {
         font-size: 3.9vw;
         margin-top: 4vw;
-        margin-left: 11vw;
-        margin-right: 13vw;
+        margin-left: 12vw;
+        margin-right: 16vw;
         line-height: 4.5vw;    
     }
 
@@ -3314,8 +3347,8 @@ body {
         width: 25vw;
         height: 0.7vw;
         background-color: #34affd;
-        margin-left: 13vw;
-        margin-top: 3vw;
+        margin-left: 12vw;
+        margin-top: 4vw;
     }
 
     .spoiler3-text3 {
@@ -3350,7 +3383,7 @@ body {
         font-size: 5.1vw;
         font-weight: 800;
         margin-top: 13vw;
-        margin-left: 13vw;
+        margin-left: 12vw;
         margin-right: 40vw;
         line-height: 6vw;
     }
@@ -3359,14 +3392,14 @@ body {
         width: 25vw;
         height: 0.7vw;
         background-color: #34affd;
-        margin-top: 5vw;
-        margin-left: 14vw;
+        margin-top: 4vw;
+        margin-left: 12vw;
     }
 
     .spoiler3-text4 {
         font-size: 4vw;
-        margin-left: 13vw;
-        margin-top: 3vw;
+        margin-left: 12vw;
+        margin-top: 4vw;
         margin-right: 14vw;
         line-height: 5vw;
     }
@@ -3413,18 +3446,42 @@ body {
         border-radius: 35px;
     }
 
+    .innovative {
+        margin-top: 23vw;
+        width: 57vw;
+        margin-left: 2vw;
+    }
+
+    .effective {
+        margin-top: 23vw;
+        width: 57vw;
+        margin-left: -7vw;
+    }
+
+    .comfortable {
+        margin-top: 23vw;
+        width: 57vw;
+        margin-left: 2vw;
+    }
+
+    .complete {
+        margin-top: 23vw;
+        width: 57vw;
+        margin-left: -7vw;
+    }
+
     .spoiler4-subheader {
         font-size: 3.7vw;
-        margin-top: 6vw;
+        margin-top: 2vw;
         margin-right: 7vw;
-        margin-left: 11vw;
-        text-shadow: 5px 2px 3px #67d9e5;
+        margin-left: 12vw;
+        text-shadow: 0px 2px 3px #67d9e5;
         line-height: 4.7vw;
     }
 
     .spoiler4-text {
         font-size: 4vw;
-        margin-left: 10vw;
+        margin-left: 12vw;
         margin-top: 4vw;
         width: 43vw;
         line-height: 4.9vw;
@@ -3453,7 +3510,7 @@ body {
     }
 
     .subheader2 {
-        margin-left: 5vw;
+        margin-left: 4vw;
         width: 32vw;
     }
    
