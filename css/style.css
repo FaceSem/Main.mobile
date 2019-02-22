@@ -3447,27 +3447,27 @@ body {
     }
 
     .innovative {
-        margin-top: 23vw;
-        width: 57vw;
-        margin-left: 2vw;
+        margin-top: 18vw;
+        width: 45vw;
+        margin-left: 7vw;
     }
 
     .effective {
-        margin-top: 23vw;
-        width: 57vw;
-        margin-left: -7vw;
+        margin-top: 14vw;
+        width: 45vw;
+        margin-left: -1vw;
     }
 
     .comfortable {
-        margin-top: 23vw;
-        width: 57vw;
-        margin-left: 2vw;
+        margin-top: 15vw;
+        width: 45vw;
+        margin-left: 6vw;
     }
 
     .complete {
-        margin-top: 23vw;
-        width: 57vw;
-        margin-left: -7vw;
+        margin-top: 14vw;
+        width: 45vw;
+        margin-left: 0vw;
     }
 
     .spoiler4-subheader {
@@ -3488,8 +3488,8 @@ body {
     }
 
     .spoiler4-circle {
-        width: 65vw;
-        height: 64vw;
+        width: 60vw;
+        height: 60vw;
         margin-top: 26vw;
         margin-left: -2vw;
     }
@@ -3518,6 +3518,7 @@ body {
         margin-right: 2vw;
         margin-left: 4vw;
         width: 45vw;
+        line-height: 5vw;
     }
 
     .header3 {
