@@ -3390,8 +3390,123 @@ body {
     }
 
     .circle7 {
-        top: -17vw;
+        top: -16vw;
         left: 42.9vw;
+    }
+
+    .spoiler4-box {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .spoiler4-header {
+        font-size: 6vw;
+        margin-top: 20vw;
+        margin-left: 7vw;
+        font-weight: 800;
+        background-color: #d5fde8;
+        width: 36vw;
+        padding-left: 5vw;
+        padding-right: 1vw;
+        padding-top: 2vw;
+        padding-bottom: 2vw;
+        border-radius: 35px;
+    }
+
+    .spoiler4-subheader {
+        font-size: 3.7vw;
+        margin-top: 6vw;
+        margin-right: 7vw;
+        margin-left: 11vw;
+        text-shadow: 5px 2px 3px #67d9e5;
+        line-height: 4.7vw;
+    }
+
+    .spoiler4-text {
+        font-size: 4vw;
+        margin-left: 10vw;
+        margin-top: 4vw;
+        width: 43vw;
+        line-height: 4.9vw;
+    }
+
+    .spoiler4-circle {
+        width: 65vw;
+        height: 64vw;
+        margin-top: 26vw;
+        margin-left: -2vw;
+    }
+
+    .spoiler4-circle2 {
+        width: 60vw;
+        height: 60vw;
+        margin-left: -13vw;
+        margin-top: 21vw;
+    }
+
+    .header2 {
+        margin-top: 14vw;
+        margin-left: 0vw;
+        padding-left: 8vw;
+        padding-right: 0vw;
+        width: 33vw;
+    }
+
+    .subheader2 {
+        margin-left: 5vw;
+        width: 32vw;
+    }
+   
+    .text2 {
+        margin-right: 2vw;
+        margin-left: 4vw;
+        width: 45vw;
+    }
+
+    .header3 {
+        margin-top: 16vw;
+        margin-left: 5vw;
+        width: 40vw;
+    }
+
+    .spoiler4-circle3 {
+        width: 60vw;
+        height: 60vw;
+        margin-top: 25vw;
+    }
+
+    .spoiler4-circle4 {
+        width: 60vw;
+        height: 60vw;
+        margin-top: 20vw;
+        margin-left: -13vw;
+    }
+
+    .header4 {
+        width: 30vw;
+        margin-top: 15vw;
+        margin-left: 1vw;
+        padding-left: 7vw;
+        padding-right: 5vw;
+    }
+
+    .subheader4 {
+        margin-left: 4vw;
+        width: 30vw;
+    }
+
+    .text4 {
+        margin-left: 4vw;
+    }
+
+    .btn-6 {
+        margin-top: 20vw;
+        margin-bottom: 20vw;
+    }
+
+    .circle8 {
+        top: -16vw;
+        left: 42.5vw;
     }
 }
 
