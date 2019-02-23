@@ -3092,6 +3092,10 @@ body {
     }
 
     .spoiler-button-text {
+        margin-left: 0vw;
+    }
+
+    .close {
         margin-left: -3vw;
     }
 
