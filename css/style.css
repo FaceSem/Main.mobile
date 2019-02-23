@@ -2738,6 +2738,7 @@ body {
         margin-top: 11vw;
         margin-bottom: 4vw;
         line-height: 1.1;
+        word-spacing: -1px;
     }
 
     .spoiler-blue-line {
@@ -3467,7 +3468,7 @@ body {
     .complete {
         margin-top: 14vw;
         width: 45vw;
-        margin-left: 0vw;
+        margin-left: -5vw;
     }
 
     .spoiler4-subheader {
